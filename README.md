@@ -22,3 +22,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 Gere um roteiro para podcast com uma unica pessoa apresentando. Ela deve se apresentar como Lestat e ter um tom sarcástico. O nome do Podcast é "Trevoso" e o tema desse episódio é o filme Nosferatu de Friedrich Wilhelm Murnau. Gere um roteiro que tenha menos que 5 mil caracteres.
 
 - 🤖 2. Elevenlabs
+Usada a opção Text to Speech com a voz Fernando Borges.
+
+## 🛠️ Resultado
+
+
